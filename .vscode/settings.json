@@ -1,0 +1,13 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/ash/rover_ws/install/rover_description/lib/python3.12/site-packages",
+        "/home/ash/rover_ws/install/rover_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ash/rover_ws/install/rover_description/lib/python3.12/site-packages",
+        "/home/ash/rover_ws/install/rover_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
